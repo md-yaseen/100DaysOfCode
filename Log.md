@@ -18,3 +18,10 @@
 2. Completed Functions Module from Wesbos's Beginner JS Course. Got to learn new things about functions, like, Arrow Funtions, Anonymous Functions, IIFE(Immediately Invoked Function Expression) & Callback Functions.
 
 **Thoughts**: Was able to understand flexbox's row/column concept actually today. Also shoudl write more functions to get a hang of it.
+
+### Day 3: 24/09/2020, Thursday
+**Today's Progress**:
+1. Created Knowledge Timeline/Resume from HTML, CSS & a little bit of JS from the tutorial.
+2. Re-published my Github Page, it's not much but it's a start.
+
+**Thought's**: Need work more on my time management thing and actually start building simple projects.
