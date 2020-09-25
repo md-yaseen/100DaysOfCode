@@ -25,3 +25,6 @@
 2. Re-published my Github Page, it's not much but it's a start.
 
 **Thought's**: Need work more on my time management thing and actually start building simple projects.
+
+### Day 4: 25/09/2020, Friday
+**Today's Progress**: I could not work on anything today since there was a power cut whole day and my laptop battery goes out in 5mins without power supply. So yeah that's it, updating this at time of sleep.
