@@ -1,4 +1,4 @@
-# 100 Days of Code - Log by [Mohammed Yaseen](https://www.github.com/md-yaseen)
+# 100 Days of Code - Log by [Mohammed Yaseen](https://md-yaseen.github.io)
 
 ### Day 0: 21/09/2020, Monday
 **Today's Progress**: Learned about CSS Animations, Keyframes & Transistions from Brad's Udemy Course
@@ -28,3 +28,6 @@
 
 ### Day 4: 25/09/2020, Friday
 **Today's Progress**: I could not work on anything today since there was a power cut whole day and my laptop battery goes out in 5mins without power supply. So yeah that's it, updating this at time of sleep.
+
+### Day 5: 26/09/2020, Saturday
+**Today's Progress**: Went through a Quick Drop Down Menu Tutorial using CSS & did some flexbox tuorials on YT by Wesbos.
