@@ -31,3 +31,6 @@
 
 ### Day 5: 26/09/2020, Saturday
 **Today's Progress**: Went through a Quick Drop Down Menu Tutorial using CSS & did some flexbox tuorials on YT by Wesbos.
+
+### Day 6: 27/09/2020, Sunday
+**Today's Progress**: Did a setup of Frontend mentor challenge to solve and ended up not doing it.
