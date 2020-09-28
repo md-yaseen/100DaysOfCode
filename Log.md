@@ -34,3 +34,6 @@
 
 ### Day 6: 27/09/2020, Sunday
 **Today's Progress**: Did a setup of Frontend mentor challenge to solve and ended up not doing it.
+
+### Day 7: 28/09/2020, Monday
+**Today's Progress**: Found out some repositories for hacktoberfest. Selected two issues for now. 
