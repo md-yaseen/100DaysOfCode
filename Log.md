@@ -37,3 +37,6 @@
 
 ### Day 7: 28/09/2020, Monday
 **Today's Progress**: Found out some repositories for hacktoberfest. Selected two issues for now. 
+
+### Day 8: 29/09/2020, Tuesday
+**Today's Progress**: Did nothing today, power cut again.
