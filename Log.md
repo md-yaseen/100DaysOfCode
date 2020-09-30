@@ -40,3 +40,6 @@
 
 ### Day 8: 29/09/2020, Tuesday
 **Today's Progress**: Did nothing today, power cut again.
+
+### Dat 9: 30/09/2020, Wednesday
+**Today's Progress**: Nothing much today, just resting day. Forgot to update this on time so updating in early morning if Day 10
