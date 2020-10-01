@@ -43,3 +43,6 @@
 
 ### Dat 9: 30/09/2020, Wednesday
 **Today's Progress**: Nothing much today, just resting day. Forgot to update this on time so updating in early morning if Day 10
+
+### Day 10: 01/10/2020, Thursday
+**Today's progress**: Created a PR for hacktoberfest. Tomorrow will search for more and submit them.
