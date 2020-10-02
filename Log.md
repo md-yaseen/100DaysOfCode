@@ -46,3 +46,6 @@
 
 ### Day 10: 01/10/2020, Thursday
 **Today's progress**: Created a PR for hacktoberfest. Tomorrow will search for more and submit them.
+
+### Day 11: 02/10/2020, Friday
+**Today's Progress**: Commited another request to an same PR. Did front end mentor challenge with help of tutorial. will continue it tomorrow.
