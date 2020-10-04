@@ -49,3 +49,9 @@
 
 ### Day 11: 02/10/2020, Friday
 **Today's Progress**: Commited another request to an same PR. Did front end mentor challenge with help of tutorial. will continue it tomorrow.
+
+### Day 12: 03/10/2020, Saturday
+**Today's Progress**: Couldn't do anything today.
+
+### Day 13: 04/10/2020, Sunday
+**Today's Progress**: Couldn't do anything today.
