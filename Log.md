@@ -55,3 +55,6 @@
 
 ### Day 13: 04/10/2020, Sunday
 **Today's Progress**: Couldn't do anything today.
+
+### Day 14: 05/10/2020, Monday
+**Today's Progress**: Didn't do anything today.
